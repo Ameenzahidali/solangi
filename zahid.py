@@ -37,9 +37,9 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   Solangi BADSHAH Zahid
+   ameenzahid
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS Zahid TRICKER 
+  THE SOLANGI KING
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
    pakistani hackers solangi
